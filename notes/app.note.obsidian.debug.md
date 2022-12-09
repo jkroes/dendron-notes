@@ -1,0 +1,1 @@
+https://mnaoumov.wordpress.com/2022/05/10/how-to-debug-obsidian-plugins/

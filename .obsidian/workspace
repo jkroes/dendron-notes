@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "2d28f7c6af874f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fbf1f33a4183cd5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10e188d9f961d7f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec69578fa936f128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7730e28d5a38b1aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea7d8598606b793b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "t",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15885c36d029fbdc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224
+  },
+  "right": {
+    "id": "b530a418a2fa0dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e50820f3459eb6f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbce8ae32edc8981",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1808b3843a1b4b56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "398d4d88576bdf95",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c76351cc4eeaec2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 460,
+    "collapsed": true
+  },
+  "active": "9fbf1f33a4183cd5",
+  "lastOpenFiles": [
+    "jkk.md",
+    "Untitled.md",
+    "Work/2021-02-20.md",
+    "Obsidian Help Summary.md",
+    "Templates/Meeting Notes Template.md",
+    "Work/2021-03-09.md",
+    "apples.md",
+    "Work/Brenna McNabb.md",
+    "Work/Maziar Kandelous.md",
+    "People/Rosemary Uyeda.md"
+  ]
+}

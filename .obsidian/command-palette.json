@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "omnisearch:show-modal",
+    "omnisearch:show-modal-infile",
+    "editor:insert-wikilink",
+    "insert-template",
+    "editor:follow-link",
+    "app:go-back",
+    "app:go-forward"
+  ]
+}

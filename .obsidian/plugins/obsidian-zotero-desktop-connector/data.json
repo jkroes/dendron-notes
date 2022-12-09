@@ -1,0 +1,18 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Create literature note",
+      "outputPathTemplate": "notes/literature.{{citekey}}.md",
+      "imageOutputPathTemplate": "literature.{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "notes/app.note.obsidian.template.zotero.md",
+      "cslStyle": "apa"
+    }
+  ]
+}

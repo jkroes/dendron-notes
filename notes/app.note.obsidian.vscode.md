@@ -1,0 +1,1 @@
+https://www.reddit.com/r/ObsidianMD/comments/yfxdlb/vs_codeserver_in_obsidian/ seems to provide a method for running VScode as a webapp, running that webapp in an Obsidian Custom Frame, then editing from within obsidian with VSCode features like autocompletion. 

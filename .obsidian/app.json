@@ -1,0 +1,18 @@
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "vimMode": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": false,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showInlineTitle": false
+}
