@@ -8,5 +8,7 @@
   "url-into-selection",
   "omnisearch",
   "obsidian-local-rest-api",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "uri-commands",
+  "buttons"
 ]

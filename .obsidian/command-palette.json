@@ -1,5 +1,6 @@
 {
   "pinned": [
+    "switcher:open",
     "omnisearch:show-modal",
     "omnisearch:show-modal-infile",
     "editor:insert-wikilink",

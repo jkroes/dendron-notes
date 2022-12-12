@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "5533fdee2edf207a",
+        "id": "788957dfe6b504d2",
         "type": "tabs",
         "children": [
           {
-            "id": "72aba3a69688039d",
+            "id": "e57e2f9f6e9952d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/app.note.obsidian.zotero.md",
+                "file": "notes/root.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f774677e6fe565e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/root.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6429a8ef83e261f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/app.note.dendron.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "b530a418a2fa0dd0",
@@ -86,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/app.note.obsidian.zotero.md"
+                "file": "notes/app.note.dendron.md"
               }
             }
           },
@@ -115,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/app.note.obsidian.zotero.md",
+                "file": "notes/app.note.dendron.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +162,17 @@
     "width": 460,
     "collapsed": true
   },
-  "active": "72aba3a69688039d",
+  "active": "f6429a8ef83e261f",
   "lastOpenFiles": [
-    "notes/app.note.obsidian.zotero.md",
-    "notes/app.editor.vscode.debug.md",
-    "notes/app.note.dendron.block-reference.md",
-    "notes/app.note.dendron.commands.md",
+    "notes/2021-02-20.md",
+    "notes/2021-03-09.md",
+    "notes/vscode.git.md",
+    "notes/app.note.dendron.md",
+    "notes/app.note.obsidian.search.md",
+    "notes/app.note.obsidian.plugin.dataview.md",
     "notes/root.md",
-    "notes/language.prog.js.template.nunjucks.md",
-    "notes/meet.2022.12.06.md",
-    "app.note.obsidian.plugin.md",
-    "app.note.obsidian.zotero.md",
-    "app.note.obsidian.plugin.dataview.md"
+    "notes/testing.md",
+    "notes/app.note.obsidian.zotero.md",
+    "notes/app.note.dendron.block-reference.md"
   ]
 }
