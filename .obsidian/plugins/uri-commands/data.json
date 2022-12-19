@@ -1,0 +1,11 @@
+{
+  "URICommands": [
+    {
+      "name": "focus-vscode",
+      "id": "focus-vscode1670690214988",
+      "URITemplate": "vscode://",
+      "encode": false
+    }
+  ],
+  "notification": false
+}

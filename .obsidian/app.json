@@ -14,5 +14,6 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "strictLineBreaks": false
 }

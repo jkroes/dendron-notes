@@ -22,3 +22,4 @@ Dendron uses predefined schemas for tags, which have domain `tags`, are linked t
 Despite these attractive features, dendron has no same-pane/tab live preview like Obsidian (sometimes referred to as WYSIWYG), has deprecated some/many/most(?) extensions that were created for it and does not seem to have fleshed out [extension](https://wiki.dendron.so/notes/1myZIy650bq4h0NAOGchT/) documentation. Then again, maybe that section means something different. It does have a section for contributors: https://wiki.dendron.so/notes/81da87be-2d4e-47b5-a1d6-c0d647e1ab00/
 
 [obsidian-structure](https://github.com/dobrovolsky/obsidain-structure attempts to port) attempts to port some of these features from dendron to obsidian.
+
