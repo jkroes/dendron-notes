@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "788957dfe6b504d2",
+        "id": "68aa2ac71887a264",
         "type": "tabs",
         "children": [
           {
-            "id": "e57e2f9f6e9952d0",
+            "id": "f2d09acefb0a85fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/root.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f774677e6fe565e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/root.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6429a8ef83e261f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/app.note.dendron.md",
+                "file": "notes/app.note.dendron.custom-preview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -97,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "b530a418a2fa0dd0",
@@ -114,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/app.note.dendron.md"
+                "file": "notes/app.note.dendron.custom-preview.md"
               }
             }
           },
@@ -143,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/app.note.dendron.md",
+                "file": "notes/app.note.dendron.custom-preview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,26 +125,49 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "1988f5a0f3e89141",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "554ce337ba6f6f4c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "10920b00988bf00e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 460,
-    "collapsed": true
+    "width": 460
   },
-  "active": "f6429a8ef83e261f",
+  "active": "f2d09acefb0a85fd",
   "lastOpenFiles": [
-    "notes/2021-02-20.md",
-    "notes/2021-03-09.md",
-    "notes/vscode.git.md",
-    "notes/app.note.dendron.md",
-    "notes/app.note.obsidian.search.md",
+    "notes/app.note.dendron.org-roam.md",
+    "notes/app.editor.vscode.language-server.r.md",
+    "notes/app.note.obsidian.plugin.md",
     "notes/app.note.obsidian.plugin.dataview.md",
-    "notes/root.md",
-    "notes/testing.md",
-    "notes/app.note.obsidian.zotero.md",
-    "notes/app.note.dendron.block-reference.md"
+    "notes/2021-02-20.md",
+    "notes/app.note.dendron.block-reference.md",
+    "notes/app.note.dendron.md",
+    "app.note.md",
+    "notes/app.note.dendron.proxy-note.md",
+    "notes/app.note.dendron.template.md"
   ]
 }
