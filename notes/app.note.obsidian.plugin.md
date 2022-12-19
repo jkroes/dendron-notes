@@ -1,7 +1,13 @@
 ---
+id: epq9j570ydsg4fv5b3z9gi3
+title: Plugin
+desc: ''
+updated: 1670614238530
+created: 1670614238530
 tags:
-- obsidian
+  - obsidian
 ---
+
 
 # Getting started
 

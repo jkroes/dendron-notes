@@ -6,6 +6,7 @@ updated: 1670539842747
 created: 1670383522879
 ---
 
+
 - [overview](https://code.visualstudio.com/api)
   - [how to build extensions](https://code.visualstudio.com/api#how-to-build-extensions)
     - Explains the sections of the overview's sidebar.

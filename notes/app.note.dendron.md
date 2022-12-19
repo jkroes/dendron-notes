@@ -1,3 +1,10 @@
+---
+id: dswwkqtc1hdtrwyiffgslns
+title: Dendron
+desc: ''
+updated: 1670624761168
+created: 1670624761168
+---
 dendron is a VScode plugin that implements a PMK notetaking system. Like Obsidian it allows backlinks and tags, but "flexible" hierarchies are central to note organization in dendron.
 
 Dendron omits folders in favor of a hierarchy expressed through period-separated filename components. The first component is referred to as the domain.

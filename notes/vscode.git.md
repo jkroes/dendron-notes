@@ -6,6 +6,7 @@ updated: 1670539905847
 created: 1670538108652
 ---
 
+
 # Windows and WSL
 
 1. Install a portable version of git for windows.

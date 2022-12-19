@@ -1,7 +1,13 @@
 ---
+id: 7vlwx94wwjyxw3g03ehz4t5
+title: Attachment
+desc: ''
+updated: 1670614238503
+created: 1670614238503
 tags:
-- #obsidian
+  - null
 ---
+
 
 https://github.com/RainCat1998/obsidian-custom-attachment-location
 

@@ -1,7 +1,13 @@
 ---
+id: 5y95y9iis88mqh2m87ei4me
+title: Nunjucks
+desc: ''
+updated: 1670614238702
+created: 1670614238702
 tags:
-- programming/js/template
+  - programming/js/template
 ---
+
 
 > [!note]- Syntax highlighting 
 > Obsidian relies on primsjs for syntax highlighting. prismjs supports jinja2, a Python templating engine from which nunjucks was ported to JS.

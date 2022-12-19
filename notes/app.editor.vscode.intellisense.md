@@ -6,6 +6,7 @@ updated: 1670305947229
 created: 1670270379216
 ---
 
+
 IntelliSense
 : A general term for various code editing features including: code completion, parameter info, quick info, and member lists. 
 

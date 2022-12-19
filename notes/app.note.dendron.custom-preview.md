@@ -4,8 +4,9 @@ title: Custom Preview
 desc: ''
 updated: 1670362560657
 created: 1670344735900
-uri: https://wiki.dendron.so/notes/0fbg5vbv5jzb0623pbi4v3t/#applying-a-custom-theme
+uri: 'https://wiki.dendron.so/notes/0fbg5vbv5jzb0623pbi4v3t/#applying-a-custom-theme'
 ---
+
 
 In particular, we should theme references (e.g., block references) to look more like Obsidian.
 

@@ -1,10 +1,11 @@
 ---
 id: root
 title: root
-desc: ""
+desc: ''
 updated: 1605266684036
 created: 1595961348801
 ---
+
 
 This is the root for your Dendron vault.
 

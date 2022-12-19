@@ -6,6 +6,7 @@ updated: 1670441974822
 created: 1670393947348
 ---
 
+
 # [Promises, async/await](https://javascript.info/async)
 
 # https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing

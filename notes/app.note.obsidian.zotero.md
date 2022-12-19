@@ -1,7 +1,13 @@
 ---
+id: oqmocrxtunicfc0wv6a5u0r
+title: Zotero
+desc: ''
+updated: 1670614238577
+created: 1670614238577
 tags:
-- obsidian
+  - obsidian
 ---
+
 
 https://forum.obsidian.md/t/pdf-zotero-obsidian-current-state-and-collaboration-for-the-one-plugin/34372 is a discussion of the various plugins.
 

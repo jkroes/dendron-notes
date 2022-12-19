@@ -1,7 +1,13 @@
 ---
+id: kpi71e7pwf1s5fcxuuhfbrb
+title: Vim
+desc: ''
+updated: 1670614238308
+created: 1670614238308
 tags:
-- obsidian
+  - obsidian
 ---
+
 
 vim keybinding support is built-into Obsidian. To enable it, check Options > Editor > Advanced > Vim key bindings.
 

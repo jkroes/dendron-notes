@@ -1,8 +1,15 @@
 ---
-aliases: [{{title}}]
-tags: 
-- zotero/literature-note
+id: lvtdtcck9bci82zfi98k76c
+title: Zotero
+desc: ''
+updated: 1670614238651
+created: 1670614238651
+tags:
+  - zotero/literature-note
+aliases:
+  - '[object Object]': null
 ---
+
 
 > [!cite]
 > {{bibliography}}

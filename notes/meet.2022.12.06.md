@@ -7,6 +7,7 @@ created: 1670360425666
 traitIds:
   - meetingNote
 ---
+
 _Edit the [[templates.meet]] note to change this template generated for Dendron Meeting Notes._
 
 ## Attendees

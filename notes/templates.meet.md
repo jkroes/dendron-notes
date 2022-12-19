@@ -5,6 +5,7 @@ desc: ''
 updated: 1670360425633
 created: 1670360425633
 ---
+
 _Edit the [[templates.meet]] note to change this template generated for Dendron Meeting Notes._
 
 ## Attendees
