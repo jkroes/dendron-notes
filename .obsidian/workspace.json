@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "b530a418a2fa0dd0",
@@ -155,9 +156,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460
+    "width": 460,
+    "collapsed": true
   },
-  "active": "f2d09acefb0a85fd",
+  "active": "7730e28d5a38b1aa",
   "lastOpenFiles": [
     "notes/app.note.dendron.org-roam.md",
     "notes/app.editor.vscode.language-server.r.md",
